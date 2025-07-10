@@ -13,3 +13,10 @@
 
 - **Long-term forecasts** : are used in strategic planning. Such decisions must take account of market opportunities, environmental factors and internal resources.  
 
+-**95% prediction intervals** : 
+
+-**Trend**: changeing direction in long-term.
+
+-**Seasonal**: seasonal factors such as the time of the year or the day of the week, 
+
+-**we usually combine the trend and cycle into a single trend-cycle component (often just called the trend for simplicity).**
