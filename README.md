@@ -28,3 +28,16 @@
 <img width="1090" height="406" alt="image" src="https://github.com/user-attachments/assets/e96be64a-7572-462c-981f-848306ff33cf" />
 
 Data preparation (tidy) - Plot the data (visualise) - Define a model (specify) - Train the model (estimate) - Check model performance (evaluate) - Produce forecasts (forecast)
+
+-**residual refers**: the difference between the actual observed value and the value predicted (or fitted) by the model.
+
+-** Innovation Residuals**: Sometimes, data is transformed (e.g., using logarithms) before modeling.
+
+-**If residuals are randomly scattered around zero, it means the model is doing a good job. // If residuals show a pattern, it means the model has missed some information or trend in the data and needs improvement.**
+
+-**homoscedasticity**:The innovation residuals have constant variance. This is known as “homoscedasticity”.
+
+-**Box-Cox transformation **: a widely used method in statistics to transform non-normally distributed data into a more normal distribution
+
+-**bootstrapped**: is a reference to pulling ourselves up by our bootstraps, because the process allows us to measure future uncertainty by only using the historical data.
+
