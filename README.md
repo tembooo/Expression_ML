@@ -20,3 +20,11 @@
 -**Seasonal**: seasonal factors such as the time of the year or the day of the week, 
 
 -**we usually combine the trend and cycle into a single trend-cycle component (often just called the trend for simplicity).**
+
+-**Seasonally adjusted series**: If the variation due to seasonality is not of primary interest , If the seasonal component is removed from the original data, the resulting values are the “seasonally adjusted” data.
+
+- Flow of advancing in decomposition of the seasonal -->  additive decomposition- multiplicative decomposition - X11 - SEATS (Seasonal Extraction in ARIMA Time Series) - STL (Seasonal and Trend decomposition using Loess) -
+-  
+<img width="1090" height="406" alt="image" src="https://github.com/user-attachments/assets/e96be64a-7572-462c-981f-848306ff33cf" />
+
+Data preparation (tidy) - Plot the data (visualise) - Define a model (specify) - Train the model (estimate) - Check model performance (evaluate) - Produce forecasts (forecast)
